@@ -1,5 +1,7 @@
 Hello from Juls
+<<<<<<< HEAD
 This is another line to the doc
 Another line
 
-
+Prueba de git
+>>>>>>> parent of 1298107 (Updated hello.txt)
